@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T03:49:01.727Z",
+  "updatedAt": "2026-11-01T03:49:16.719Z",
   "totals": {
     "messages": 89,
     "incoming": 87,
     "outgoing": 2,
-    "commands": 28
+    "commands": 29
   },
   "days": {
     "2026-10-31": {
@@ -18,7 +18,7 @@
       "messages": 24,
       "incoming": 24,
       "outgoing": 0,
-      "commands": 7
+      "commands": 8
     }
   },
   "commands": {
@@ -29,12 +29,13 @@
     "menu2": 2,
     "bansos": 1,
     "tourl": 2,
-    "afk": 1
+    "afk": 1,
+    "allmenu": 1
   },
   "bot": {
     "status": "online",
     "startedAt": "2026-10-31T00:08:06.014Z",
-    "lastSeenAt": "2026-11-01T03:49:01.671Z"
+    "lastSeenAt": "2026-11-01T03:49:16.536Z"
   },
   "bots": [
     {
