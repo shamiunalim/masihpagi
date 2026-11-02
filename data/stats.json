@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T09:04:35.107Z",
+  "updatedAt": "2026-11-02T09:04:50.088Z",
   "totals": {
-    "messages": 372,
-    "incoming": 369,
+    "messages": 375,
+    "incoming": 372,
     "outgoing": 3,
-    "commands": 73
+    "commands": 74
   },
   "days": {
     "2026-10-31": {
@@ -21,10 +21,10 @@
       "commands": 27
     },
     "2026-11-02": {
-      "messages": 206,
-      "incoming": 205,
+      "messages": 209,
+      "incoming": 208,
       "outgoing": 1,
-      "commands": 25
+      "commands": 26
     }
   },
   "commands": {
@@ -36,7 +36,7 @@
     "bansos": 2,
     "tourl": 2,
     "afk": 1,
-    "allmenu": 1,
+    "allmenu": 2,
     "play2": 11,
     "pin": 1,
     "swgc": 4,
@@ -48,7 +48,7 @@
   "bot": {
     "status": "online",
     "startedAt": "2026-10-31T00:08:06.014Z",
-    "lastSeenAt": "2026-11-02T09:04:34.902Z"
+    "lastSeenAt": "2026-11-02T09:04:49.903Z"
   },
   "bots": [
     {
