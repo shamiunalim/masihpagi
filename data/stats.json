@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T11:29:02.854Z",
+  "updatedAt": "2026-11-05T11:29:17.868Z",
   "totals": {
-    "messages": 2730,
-    "incoming": 2723,
+    "messages": 2732,
+    "incoming": 2725,
     "outgoing": 7,
-    "commands": 216
+    "commands": 218
   },
   "days": {
     "2026-10-31": {
@@ -39,10 +39,10 @@
       "commands": 24
     },
     "2026-11-05": {
-      "messages": 432,
-      "incoming": 430,
+      "messages": 434,
+      "incoming": 432,
       "outgoing": 2,
-      "commands": 31
+      "commands": 33
     }
   },
   "commands": {
@@ -55,7 +55,7 @@
     "tourl": 2,
     "afk": 3,
     "allmenu": 2,
-    "play2": 13,
+    "play2": 14,
     "pin": 3,
     "swgc": 5,
     "ttaudio": 2,
@@ -76,7 +76,7 @@
     "getpp": 3,
     "h": 1,
     "removebg": 1,
-    "brat": 14,
+    "brat": 15,
     "ig": 2,
     "buy": 2,
     "addfile": 4,
@@ -87,7 +87,7 @@
   "bot": {
     "status": "online",
     "startedAt": "2026-10-31T00:08:06.014Z",
-    "lastSeenAt": "2026-11-05T11:29:02.672Z"
+    "lastSeenAt": "2026-11-05T11:29:17.673Z"
   },
   "bots": [
     {
