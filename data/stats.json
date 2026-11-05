@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T09:37:47.547Z",
+  "updatedAt": "2026-11-05T09:38:02.521Z",
   "totals": {
-    "messages": 2583,
-    "incoming": 2576,
+    "messages": 2585,
+    "incoming": 2578,
     "outgoing": 7,
-    "commands": 189
+    "commands": 190
   },
   "days": {
     "2026-10-31": {
@@ -39,10 +39,10 @@
       "commands": 24
     },
     "2026-11-05": {
-      "messages": 285,
-      "incoming": 283,
+      "messages": 287,
+      "incoming": 285,
       "outgoing": 2,
-      "commands": 4
+      "commands": 5
     }
   },
   "commands": {
@@ -78,12 +78,13 @@
     "removebg": 1,
     "brat": 11,
     "ig": 2,
-    "buy": 2
+    "buy": 2,
+    "addfile": 1
   },
   "bot": {
     "status": "online",
     "startedAt": "2026-10-31T00:08:06.014Z",
-    "lastSeenAt": "2026-11-05T09:37:47.310Z"
+    "lastSeenAt": "2026-11-05T09:38:02.311Z"
   },
   "bots": [
     {
