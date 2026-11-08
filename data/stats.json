@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T14:00:04.388Z",
+  "updatedAt": "2026-11-08T14:00:19.379Z",
   "totals": {
-    "messages": 5568,
-    "incoming": 5554,
+    "messages": 5569,
+    "incoming": 5555,
     "outgoing": 14,
-    "commands": 301
+    "commands": 302
   },
   "days": {
     "2026-10-31": {
@@ -57,10 +57,10 @@
       "commands": 23
     },
     "2026-11-08": {
-      "messages": 1264,
-      "incoming": 1260,
+      "messages": 1265,
+      "incoming": 1261,
       "outgoing": 4,
-      "commands": 22
+      "commands": 23
     }
   },
   "commands": {
@@ -100,7 +100,7 @@
     "addfile": 4,
     "setppbot": 13,
     "cc": 1,
-    "menu": 3,
+    "menu": 4,
     "playvn": 1,
     "getmsg": 1,
     "fb": 4,
@@ -113,7 +113,7 @@
   "bot": {
     "status": "online",
     "startedAt": "2026-10-31T00:08:06.014Z",
-    "lastSeenAt": "2026-11-08T14:00:04.174Z"
+    "lastSeenAt": "2026-11-08T14:00:19.174Z"
   },
   "bots": [
     {
