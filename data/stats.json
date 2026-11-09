@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T13:04:09.588Z",
+  "updatedAt": "2026-11-09T13:04:24.527Z",
   "totals": {
-    "messages": 6232,
-    "incoming": 6218,
+    "messages": 6235,
+    "incoming": 6221,
     "outgoing": 14,
-    "commands": 322
+    "commands": 323
   },
   "days": {
     "2026-10-31": {
@@ -63,10 +63,10 @@
       "commands": 25
     },
     "2026-11-09": {
-      "messages": 458,
-      "incoming": 458,
+      "messages": 461,
+      "incoming": 461,
       "outgoing": 0,
-      "commands": 18
+      "commands": 19
     }
   },
   "commands": {
@@ -116,12 +116,13 @@
     "open": 1,
     "jadibot": 1,
     "tebakbom": 1,
-    "autoviewonce": 1
+    "autoviewonce": 1,
+    "delete": 1
   },
   "bot": {
     "status": "online",
     "startedAt": "2026-10-31T00:08:06.014Z",
-    "lastSeenAt": "2026-11-09T13:04:09.286Z"
+    "lastSeenAt": "2026-11-09T13:04:24.287Z"
   },
   "bots": [
     {
