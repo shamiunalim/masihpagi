@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T12:09:51.399Z",
+  "updatedAt": "2026-11-11T12:10:06.339Z",
   "totals": {
-    "messages": 8550,
-    "incoming": 8450,
+    "messages": 8552,
+    "incoming": 8452,
     "outgoing": 100,
-    "commands": 441
+    "commands": 442
   },
   "days": {
     "2026-10-31": {
@@ -75,16 +75,16 @@
       "commands": 51
     },
     "2026-11-11": {
-      "messages": 950,
-      "incoming": 941,
+      "messages": 952,
+      "incoming": 943,
       "outgoing": 9,
-      "commands": 56
+      "commands": 57
     }
   },
   "commands": {
     "gitdelall": 3,
     "gitaddzip": 6,
-    "tt": 129,
+    "tt": 130,
     "s": 31,
     "menu2": 4,
     "bansos": 2,
@@ -155,7 +155,7 @@
   "bot": {
     "status": "online",
     "startedAt": "2026-11-11T06:09:12.792Z",
-    "lastSeenAt": "2026-11-11T12:09:51.128Z"
+    "lastSeenAt": "2026-11-11T12:10:06.128Z"
   },
   "bots": [
     {
