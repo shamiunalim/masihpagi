@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T23:00:03.829Z",
+  "updatedAt": "2026-11-12T23:00:18.579Z",
   "totals": {
-    "messages": 10907,
-    "incoming": 10803,
+    "messages": 10909,
+    "incoming": 10805,
     "outgoing": 104,
-    "commands": 564
+    "commands": 567
   },
   "days": {
     "2026-10-31": {
@@ -87,10 +87,10 @@
       "commands": 73
     },
     "2026-11-13": {
-      "messages": 349,
-      "incoming": 349,
+      "messages": 351,
+      "incoming": 351,
       "outgoing": 0,
-      "commands": 39
+      "commands": 42
     }
   },
   "commands": {
@@ -130,7 +130,7 @@
     "addfile": 12,
     "setppbot": 13,
     "cc": 2,
-    "menu": 12,
+    "menu": 14,
     "playvn": 1,
     "getmsg": 3,
     "fb": 17,
@@ -175,12 +175,13 @@
     "amusic": 1,
     "tani": 4,
     "balapan": 1,
-    "listban": 1
+    "listban": 1,
+    "unban": 1
   },
   "bot": {
     "status": "online",
     "startedAt": "2026-11-11T06:09:12.792Z",
-    "lastSeenAt": "2026-11-12T23:00:03.369Z"
+    "lastSeenAt": "2026-11-12T23:00:18.369Z"
   },
   "bots": [
     {
