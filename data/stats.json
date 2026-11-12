@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T22:59:18.639Z",
+  "updatedAt": "2026-11-12T22:59:33.589Z",
   "totals": {
-    "messages": 10901,
-    "incoming": 10797,
+    "messages": 10902,
+    "incoming": 10798,
     "outgoing": 104,
-    "commands": 563
+    "commands": 564
   },
   "days": {
     "2026-10-31": {
@@ -87,10 +87,10 @@
       "commands": 73
     },
     "2026-11-13": {
-      "messages": 343,
-      "incoming": 343,
+      "messages": 344,
+      "incoming": 344,
       "outgoing": 0,
-      "commands": 38
+      "commands": 39
     }
   },
   "commands": {
@@ -174,12 +174,13 @@
     "sticker": 1,
     "amusic": 1,
     "tani": 4,
-    "balapan": 1
+    "balapan": 1,
+    "listban": 1
   },
   "bot": {
     "status": "online",
     "startedAt": "2026-11-11T06:09:12.792Z",
-    "lastSeenAt": "2026-11-12T22:59:18.365Z"
+    "lastSeenAt": "2026-11-12T22:59:33.368Z"
   },
   "bots": [
     {
