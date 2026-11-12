@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T20:34:55.696Z",
+  "updatedAt": "2026-11-12T20:35:10.748Z",
   "totals": {
-    "messages": 10613,
-    "incoming": 10509,
+    "messages": 10615,
+    "incoming": 10511,
     "outgoing": 104,
-    "commands": 548
+    "commands": 550
   },
   "days": {
     "2026-10-31": {
@@ -87,10 +87,10 @@
       "commands": 73
     },
     "2026-11-13": {
-      "messages": 55,
-      "incoming": 55,
+      "messages": 57,
+      "incoming": 57,
       "outgoing": 0,
-      "commands": 23
+      "commands": 25
     }
   },
   "commands": {
@@ -127,7 +127,7 @@
     "brat": 48,
     "ig": 3,
     "buy": 2,
-    "addfile": 11,
+    "addfile": 12,
     "setppbot": 13,
     "cc": 2,
     "menu": 10,
@@ -170,12 +170,12 @@
     "close": 3,
     "imagemusic": 5,
     "ocr": 1,
-    "melolo": 5
+    "melolo": 6
   },
   "bot": {
     "status": "online",
     "startedAt": "2026-11-11T06:09:12.792Z",
-    "lastSeenAt": "2026-11-12T20:34:55.491Z"
+    "lastSeenAt": "2026-11-12T20:35:10.490Z"
   },
   "bots": [
     {
