@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T22:56:33.423Z",
+  "updatedAt": "2026-11-12T22:56:48.419Z",
   "totals": {
-    "messages": 10881,
-    "incoming": 10777,
+    "messages": 10883,
+    "incoming": 10779,
     "outgoing": 104,
-    "commands": 557
+    "commands": 558
   },
   "days": {
     "2026-10-31": {
@@ -87,10 +87,10 @@
       "commands": 73
     },
     "2026-11-13": {
-      "messages": 323,
-      "incoming": 323,
+      "messages": 325,
+      "incoming": 325,
       "outgoing": 0,
-      "commands": 32
+      "commands": 33
     }
   },
   "commands": {
@@ -172,12 +172,13 @@
     "ocr": 1,
     "melolo": 6,
     "sticker": 1,
-    "amusic": 1
+    "amusic": 1,
+    "tani": 1
   },
   "bot": {
     "status": "online",
     "startedAt": "2026-11-11T06:09:12.792Z",
-    "lastSeenAt": "2026-11-12T22:56:33.237Z"
+    "lastSeenAt": "2026-11-12T22:56:48.237Z"
   },
   "bots": [
     {
