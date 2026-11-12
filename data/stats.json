@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T23:02:03.599Z",
+  "updatedAt": "2026-11-12T23:02:19.567Z",
   "totals": {
-    "messages": 10920,
-    "incoming": 10816,
+    "messages": 10922,
+    "incoming": 10818,
     "outgoing": 104,
-    "commands": 573
+    "commands": 574
   },
   "days": {
     "2026-10-31": {
@@ -87,10 +87,10 @@
       "commands": 73
     },
     "2026-11-13": {
-      "messages": 362,
-      "incoming": 362,
+      "messages": 364,
+      "incoming": 364,
       "outgoing": 0,
-      "commands": 48
+      "commands": 49
     }
   },
   "commands": {
@@ -178,12 +178,13 @@
     "listban": 2,
     "unban": 1,
     "sikaya": 1,
-    "slot": 1
+    "slot": 1,
+    "moveon": 1
   },
   "bot": {
     "status": "online",
     "startedAt": "2026-11-11T06:09:12.792Z",
-    "lastSeenAt": "2026-11-12T23:02:03.371Z"
+    "lastSeenAt": "2026-11-12T23:02:18.372Z"
   },
   "bots": [
     {
